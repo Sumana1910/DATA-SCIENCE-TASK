@@ -16,6 +16,11 @@ The main goals of this project are:
 - Cluster traders into behavioral groups.
 - Create a simple dashboard for visualization.
 
+## Insights Report
+
+You can read the detailed insights report here:
+[View Insights PDF](https://github.com/Sumana1910/DATA-SCIENCE-TASK/blob/main/Insights.pdf)
+
 ## Dataset
 
 This project uses two datasets:
